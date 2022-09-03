@@ -8,7 +8,7 @@ I've been coding for 2 years now, trying to get my self to the best and inprove 
 
 * 🌍  I'm based in Germany
 * 🚀  I'm currently working on [a free ARK Tribelog Script](http://discord.gg/G2W7W23g9U)
-* 🧠  I'm learning I'm currently learning Java and JavaScript...
+* 🧠  I'm currently learning Java and JavaScript...
 
 ### Skills
 

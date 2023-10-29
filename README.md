@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Scripter
 ---------------
 
-I've been coding for 2 years now, trying to get my self to the best and inprove everyday.
+I've been coding for 4 years now, trying to get my self to the best and inprove everyday.
 
 * 🌍  I'm based in Germany
-* 🚀  I'm currently working on [a free ARK Tribelog Script](http://discord.gg/G2W7W23g9U)
-* 🧠  I'm currently learning Java and JavaScript...
+* 🚀  I'm currently working on KeySystems and ARK Stuff
+* 🧠  I'm currently learning C++
 
 ### Skills
 

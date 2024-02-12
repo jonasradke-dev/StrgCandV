@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flask, C#, Java**
 
-- 👨‍💻 All of my projects are available at [devjonas.de](devjonas.de)
+- 👨‍💻 All of my projects are available at [devjonas.de](https://devjonas.de)
 
 - 💬 Ask me about **Flask, Python...**
 

@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Flask, C#, Java**
 
-- 👨‍💻 All of my projects are available at [devjonas.de](https://devjonas.de)
+- 👨‍💻 All of my projects are available at [strgc.dev](https://strgc.dev)
 
 - 💬 Ask me about **Flask, Python...**
 
-- 📫 How to reach me **info@devjonas.de**
+- 📫 How to reach me **info@strgc.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
